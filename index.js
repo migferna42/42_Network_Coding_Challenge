@@ -54,7 +54,6 @@ const goals = [
 ];
 
 let magic = 10;
-let usedOblivate = false;
 
 // game loop
 while (true) {
